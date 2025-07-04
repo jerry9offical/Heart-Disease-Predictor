@@ -60,3 +60,15 @@ This project uses the UCI Heart Disease dataset and applies logistic regression 
    ```bash
    git clone https://github.com/yourusername/heart_disease_predictor.git
    cd heart_disease_predictor
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the script:
+   python model.py
+
+
+
+
+
+   
