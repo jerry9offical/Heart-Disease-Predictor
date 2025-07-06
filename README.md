@@ -67,6 +67,51 @@ This project uses the UCI Heart Disease dataset and applies logistic regression 
 3. Run the script:
    python model.py
 
+   # 🫀 Heart Disease Predictor App
+
+[![Streamlit App](https://img.shields.io/badge/View%20App-Streamlit-blue?logo=streamlit)](https://heart-disease-predictor-cwqsbnxzpwywvsf6bxdbjz.streamlit.app/)
+
+A machine learning-powered Streamlit app that predicts the likelihood of heart disease using key clinical features.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [Click here to open the app](https://heart-disease-predictor-cwqsbnxzpwywvsf6bxdbjz.streamlit.app/)
+
+---
+
+## 🧠 Overview
+
+This app uses a **logistic regression model** trained on heart disease patient data to provide real-time predictions based on:
+
+- Chest pain type (cp)
+- Max heart rate (thalach)
+- Slope of ST segment (slope)
+- Resting ECG (restecg)
+- Fasting blood sugar (fbs)
+- Sex
+- Thalassemia (thal)
+- Number of major vessels (ca)
+- Exercise-induced angina (exang)
+- ST depression (oldpeak)
+
+---
+
+## 🎯 Features
+
+- ✅ Clean UI with **dark mode**
+- ✅ Real-time predictions using a trained **logistic regression** model
+- ✅ Custom patient input form
+- ✅ Medical illustration for visual context
+- ✅ Deployed on **Streamlit Cloud**
+
+---
+
+## 📁 Project Structure
+
+
+
 
 
 
